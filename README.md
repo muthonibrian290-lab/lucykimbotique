@@ -1,2 +1,2 @@
-# lucykimbotique
+# lucykibotique
 Botique
